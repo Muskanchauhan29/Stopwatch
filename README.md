@@ -17,7 +17,7 @@ Styled with 💜 a soft lavender theme using basic CSS.
 
 🚀 How to Run the App
 1️⃣ Clone the repository
-git clone https://github.com/YourUsername/react-stopwatch
+git clone [https://github.com/Muskanchauhan29/react-stopwatch](https://github.com/Muskanchauhan29/Stopwatch)
 
 2️⃣ Go to the project directory
 cd react-stopwatch
